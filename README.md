@@ -1,16 +1,6 @@
-# namer2
+![WhatsApp Image 2024-08-30 at 4 17 31 PM](https://github.com/user-attachments/assets/8dffd777-0b2a-4d93-bfc8-9d76211b48be)
+![WhatsApp Image 2024-08-30 at 4 17 31 PM (1)](https://github.com/user-attachments/assets/64ca80e4-db43-44dc-9e2c-57986229da83)
 
-A new Flutter project.
 
-## Getting Started
+Uploading WhatsApp Video 2024-08-30 at 4.17.32 PM.mp4…
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
